@@ -1,5 +1,7 @@
 # HTTP Error API
 
+[**Star me on GitHub!**](https://github.com/UnSstrennen)
+
 This simple project made for web developers who need to test their apps about correct error handling.
 
 ## How to use that?
@@ -17,4 +19,4 @@ get('http://httpme.tk/404')  # <Response [404]>
 get('http://httpme.tk/500')  # <Response [500]>
 ```
 
-Go to [httpme.tk](https://httpme.tk) for more details.
+&copy; Un Sstrennen, 2020
